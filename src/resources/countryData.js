@@ -1,4 +1,5 @@
-[
+// eslint-disable-next-line import/no-anonymous-default-export
+export default [
   {"name": "Albania", "code": "AL"},
   {"name": "Åland Islands", "code": "AX"},
   {"name": "Algeria", "code": "DZ"},
